@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="delete_all">Delete All</string>
+    <string name="completed_tasks">Completed</string>
+    <string name="pending_tasks">Pending</string>
+    <string name="summary_info">You have %s pending tasks</string>
+</resources>
