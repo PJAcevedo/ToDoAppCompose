@@ -1,7 +1,8 @@
-package com.asociate.pj.todoapp.ui.presentation.screens.detail
+package com.asociate.pj.todoapp.ui.presentation.screens.detail.providers
 
 import androidx.compose.ui.tooling.preview.PreviewParameterProvider
 import com.asociate.pj.todoapp.ui.domain.Category
+import com.asociate.pj.todoapp.ui.presentation.screens.detail.TaskScreenState
 
 class TaskScreenStatePreviewProvider: PreviewParameterProvider<TaskScreenState> {
     override val values: Sequence<TaskScreenState>
